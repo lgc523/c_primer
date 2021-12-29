@@ -1,0 +1,3 @@
+/Users/lgc/Documents/sc/c_primer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lgc/Documents/sc/c_primer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lgc/Documents/sc/c_primer/cmake-build-debug/CMakeFiles/c_primer.dir
