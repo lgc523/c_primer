@@ -10,6 +10,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/lgc/Documents/sc/c_primer/main.c" "/Users/lgc/Documents/sc/c_primer/cmake-build-debug/CMakeFiles/c_primer.dir/main.c.o"
   "/Users/lgc/Documents/sc/c_primer/platinum.c" "/Users/lgc/Documents/sc/c_primer/cmake-build-debug/CMakeFiles/c_primer.dir/platinum.c.o"
+  "/Users/lgc/Documents/sc/c_primer/praise.c" "/Users/lgc/Documents/sc/c_primer/cmake-build-debug/CMakeFiles/c_primer.dir/praise.c.o"
+  "/Users/lgc/Documents/sc/c_primer/talkback.c" "/Users/lgc/Documents/sc/c_primer/cmake-build-debug/CMakeFiles/c_primer.dir/talkback.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

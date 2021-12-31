@@ -177,6 +177,54 @@ platinum.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_primer.dir/build.make CMakeFiles/c_primer.dir/platinum.c.s
 .PHONY : platinum.c.s
 
+praise.o: praise.c.o
+.PHONY : praise.o
+
+# target to build an object file
+praise.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_primer.dir/build.make CMakeFiles/c_primer.dir/praise.c.o
+.PHONY : praise.c.o
+
+praise.i: praise.c.i
+.PHONY : praise.i
+
+# target to preprocess a source file
+praise.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_primer.dir/build.make CMakeFiles/c_primer.dir/praise.c.i
+.PHONY : praise.c.i
+
+praise.s: praise.c.s
+.PHONY : praise.s
+
+# target to generate assembly for a file
+praise.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_primer.dir/build.make CMakeFiles/c_primer.dir/praise.c.s
+.PHONY : praise.c.s
+
+talkback.o: talkback.c.o
+.PHONY : talkback.o
+
+# target to build an object file
+talkback.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_primer.dir/build.make CMakeFiles/c_primer.dir/talkback.c.o
+.PHONY : talkback.c.o
+
+talkback.i: talkback.c.i
+.PHONY : talkback.i
+
+# target to preprocess a source file
+talkback.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_primer.dir/build.make CMakeFiles/c_primer.dir/talkback.c.i
+.PHONY : talkback.c.i
+
+talkback.s: talkback.c.s
+.PHONY : talkback.s
+
+# target to generate assembly for a file
+talkback.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_primer.dir/build.make CMakeFiles/c_primer.dir/talkback.c.s
+.PHONY : talkback.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +240,12 @@ help:
 	@echo "... platinum.o"
 	@echo "... platinum.i"
 	@echo "... platinum.s"
+	@echo "... praise.o"
+	@echo "... praise.i"
+	@echo "... praise.s"
+	@echo "... talkback.o"
+	@echo "... talkback.i"
+	@echo "... talkback.s"
 .PHONY : help
 
 

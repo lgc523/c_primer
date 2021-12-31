@@ -84,6 +84,12 @@
 		<Unit filename="/Users/lgc/Documents/sc/c_primer/platinum.c">
 			<Option target="c_primer"/>
 		</Unit>
+		<Unit filename="/Users/lgc/Documents/sc/c_primer/praise.c">
+			<Option target="c_primer"/>
+		</Unit>
+		<Unit filename="/Users/lgc/Documents/sc/c_primer/talkback.c">
+			<Option target="c_primer"/>
+		</Unit>
 		<Unit filename="/Users/lgc/Documents/sc/c_primer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
